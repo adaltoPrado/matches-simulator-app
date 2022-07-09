@@ -5,3 +5,6 @@ Repositório organizado em branches que representam as implementações realizad
 
 1. Desenvolvimento Mobile Nativo Android
     - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/adaltoPrado/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
+
+2. Componentes, Layouts e UI/UX Em Apps Android
+    - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/adaltoPrado/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
